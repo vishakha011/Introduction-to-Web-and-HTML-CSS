@@ -1,0 +1,33 @@
+body {
+    background-color: #324E88;
+}
+
+h1, h4, p, address {
+    color: #FFFFFF;
+}
+
+h2 {
+    color: #56AB5C;
+}
+
+div {
+    display: block;
+    text-align: center;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+  
+}
+
+
+footer p {
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+    display: inline-block;
+    background-color: #0A2353;
+    text-align: center;
+  
+}
